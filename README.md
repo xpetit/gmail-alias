@@ -1,5 +1,3 @@
-# Alias Gmail
-
 Pour rajouter un alias allez sur Gmail et cliquez sur l'engrenage tout en haut à droite :
 ![01](01.jpg)
 
